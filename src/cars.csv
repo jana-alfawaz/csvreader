@@ -1,0 +1,16 @@
+Make,Model,Year,Color,EngineSize,FuelType,Price
+Ford,Mustang,2021,Blue,5.0,Gasoline,55000.00
+Toyota,Corolla,2020,White,1.8,Hybrid,24000.00
+Tesla,Model 3,2022,Red,0.0,Electric,35000.00
+BMW,330i,2019,Black,2.0,Gasoline,41000.00
+Audi,A4,2018,Silver,2.0,Gasoline,38000.00
+Honda,Civic,2021,Blue,1.5,Gasoline,22000.00
+Mercedes-Benz,C-Class,2020,White,2.0,Gasoline,42000.00
+Chevrolet,Impala,2019,Red,3.6,Gasoline,31000.00
+Nissan,Altima,2022,Black,2.5,Gasoline,28000.00
+Hyundai,Elantra,2021,Gray,2.0,Gasoline,20000.00
+Volkswagen,Passat,2019,Blue,2.0,Gasoline,23000.00
+Subaru,Outback,2020,Green,2.5,Gasoline,34000.00
+Mazda,3,2021,Red,2.5,Gasoline,26000.00
+Kia,Optima,2018,White,2.4,Gasoline,21000.00
+Lexus,IS,2022,Black,2.0,Gasoline,45000.00
